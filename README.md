@@ -26,7 +26,7 @@ A simple, functional, and customizable password generator developed in Python to
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/Password-Generator.git
+git clone https://github.com/Albert-Passos/Password-Generator.git
 ```
 
 2. Navigate to the project folder:
